@@ -26,9 +26,12 @@ Hu, H. Cheng. “Controlling thermoreversibility and hole conductivity in thermo
 morphology for neurohaptics”, *Science Advances*, 12, eaee0777 (2026)
 **W. Zhang**, X. Zhang, A. Dutta, F. Lorestani, MAS. Biswas, B. Li, AM. Abdullah, and H. Cheng. "Hydrogel-based sweat chloride sensor with high sensitivity and low hysteresis", *Biosensors and Bioelectronics*, 288, 117805 (2025)
 
-## Sensors and fabrication
+## Sensing and Manufacturing Technologies
+I am also interested in sensing and manufacturing technologies for wearable electronics. 
 
 **Related publications:**  
+Y. Yuan<sup>#</sup>, **W. Zhang<sup>#</sup>**, J. Yang, M. Peng, H. Cheng, “Recent Advances in Decoupling Strategies for Soft Sensors”,
+*Advanced Science*, 13:e14499 (2026).
 MAS. Biswas<sup>#</sup>, A. Dutta<sup>#</sup>, S. Das, AM. Abdullah, W. Zhang, FT. Zohra, H. Cheng, "Laser-Induced Graphene-Based Gas Sensors: From Sensing Mechanisms to Biomedical Applications", *Advanced Science*, e21138 (2026).
 Y. Yuan, D. Chen, J. Li, B. Li, AM. Abdullah, FT. Zohra, W. Zhang, X. Zhang, X. Xin, MA. Amidian, A. Dutta, F. Shi,
 H. Cheng,“Three-dimensional shrinking electronics on freestanding and freeform curvilinear surfaces”, *Science
@@ -37,15 +40,7 @@ AM. Abdullah, MAS. Biswas, A. Dutta, J. Li, S. Das, X. Zhang, W. Zhang, FT. Zohr
 Jabelli, C. Wu, H. Cheng, “In situ Functionalized MXene on Porous Laser-Induced Graphene for Adsorption-dominated Miniaturized Multifunctional Sensors”, *ACS Nano*, 19, 33841−33856 (2025).
 R. Herbert, MO. Popoola, W. Zhang, H. Cheng, “Soft, wearable devices to monitor electrophysiological signals and gaseous biomarkers”, *Smart and Connected Wearable Electronics*, 321-392 (2024).
 R. Yang, A. Dutta, B. Li, N. Tiwari, W. Zhang, Z. Niu, Y. Gao, D. Erdely, X. Xin, T. Li, H. Cheng, “Iontronic pressure sensor with high sensitivity over ultra-broad linear range enabled by laser-induced gradient micro-pyramids”, *Nature Communications*, 14: 2907 (2023).
-**W. Zhang<sup>#</sup>**, L. Zhang<sup>#</sup>, H. Cheng, “Conformal manufacturing of soft deformable sensors on the curved surface”, *International Journal of Extreme Manufacturing*, 3, 042001 (2021).
-**W. Zhang**, L. Huang, RN. Weinreb, H. Cheng, “Wearable electronic devices for glaucoma monitoring and therapy”, *Materials & Design*, 212, 110183 (2021).
-
-## Multimodal Sensing
-My broader research interests extend to wearable sensing technologies, including multimodal sensing systems with decoupled sensing mechanisms and iontronic pressure sensors capable of sensitive detection across wide pressure ranges.
-
-**Related publications:**  
-Y. Yuan<sup>#</sup>, **W. Zhang<sup>#</sup>**, J. Yang, M. Peng, H. Cheng, “Recent Advances in Decoupling Strategies for Soft Sensors”,
-*Advanced Science*, 13:e14499 (2026).
 R. Yang, **W. Zhang**, N. Tiwari, H. Yan, H. Cheng*, “Multimodal sensors with decoupled sensing mechanisms”,
 *Advanced Science*, 9 (26), 2202470 (2022).
-
+**W. Zhang<sup>#</sup>**, L. Zhang<sup>#</sup>, H. Cheng, “Conformal manufacturing of soft deformable sensors on the curved surface”, *International Journal of Extreme Manufacturing*, 3, 042001 (2021).
+**W. Zhang**, L. Huang, RN. Weinreb, H. Cheng, “Wearable electronic devices for glaucoma monitoring and therapy”, *Materials & Design*, 212, 110183 (2021).
