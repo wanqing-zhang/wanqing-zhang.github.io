@@ -14,13 +14,16 @@ My research focuses on wearable electronics, with an emphasis on soft bioelectro
 
 I developed a paintable electronic tattoo that can be drawn directly onto the skin and functions as a wearable sensor after drying. The ultra-thin device maintains reliable monitoring of heart, muscle, and brain activity during daily activities, while its customizable shapes and colors improve comfort and user acceptance. This technology has the potential to advance long-term health monitoring, human–machine interaction, and next-generation wearable healthcare.
 
+<small>
 **Related publication:**  
 **W. Zhang**, X. Xin, Y. Wang, X. Zhang, S. Zhang, Y. Yang, S. Xia, AM. Abdullah, FT. Zohra, B. Li, J. Yang, A. Dutta,
 Z. Liu, ABP. Lima, S. Yan, J. Zhong, C. Chuang, H. Cheng. “Paintable on-skin dry electrodes with robust skin and device connection for wireless sensing and human-machine interfaces”, *Proceedings of the National Academy of Sciences*, In Press, 2026.
+</small>
 
 ## Conductive Hydrogels and Hydrogel Sensors
 My research focuses on conductive hydrogels and hydrogel-based sensing technologies for wearable and implantable bioelectronics. I developed a battery-free hydrogel-based sweat chloride sensor for non-invasive biochemical monitoring and am interested in engineering conductive hydrogels with improved conductivity, mechanical robustness, adhesion, environmental stability, and long-term interface reliability.
 
+<small>
 **Related publication:**  
 **W. Zhang#**, Y. Yang#, S. Zhang, Z. Liu, MA. Amidian, R. Jacob, ABP. Lima, H. Cheng. "Designing PEDOT:PSS hydrogels for bioelectronic interfaces", *Advanced Materials*, Under Review (2026).
 
@@ -32,10 +35,12 @@ Hu, H. Cheng. “Controlling thermoreversibility and hole conductivity in thermo
 morphology for neurohaptics”, *Science Advances*, 12, eaee0777 (2026)
 
 **W. Zhang**, X. Zhang, A. Dutta, F. Lorestani, MAS. Biswas, B. Li, AM. Abdullah, and H. Cheng. "Hydrogel-based sweat chloride sensor with high sensitivity and low hysteresis", *Biosensors and Bioelectronics*, 288, 117805 (2025)
+</small>
 
 ## Sensing and Manufacturing Technologies
 I am also interested in sensing and manufacturing technologies for wearable electronics. 
 
+<small>
 **Related publications:**  
 Y. Yuan<sup>#</sup>, **W. Zhang<sup>#</sup>**, J. Yang, M. Peng, H. Cheng, “Recent Advances in Decoupling Strategies for Soft Sensors”,
 *Advanced Science*, 13:e14499 (2026).
@@ -52,7 +57,7 @@ R. Yang, A. Dutta, B. Li, N. Tiwari, **W. Zhang**, Z. Niu, Y. Gao, D. Erdely, X.
 
 R. Yang, **W. Zhang**, N. Tiwari, H. Yan, H. Cheng*, “Multimodal sensors with decoupled sensing mechanisms”,
 *Advanced Science*, 9 (26), 2202470 (2022).
-
+</small>
 **W. Zhang<sup>#</sup>**, L. Zhang<sup>#</sup>, H. Cheng, “Conformal manufacturing of soft deformable sensors on the curved surface”, *International Journal of Extreme Manufacturing*, 3, 042001 (2021).
 
 **W. Zhang**, L. Huang, RN. Weinreb, H. Cheng, “Wearable electronic devices for glaucoma monitoring and therapy”, *Materials & Design*, 212, 110183 (2021).
