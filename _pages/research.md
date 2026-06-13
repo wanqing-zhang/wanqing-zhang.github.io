@@ -10,7 +10,7 @@ My research focuses on wearable electronics, with an emphasis on soft bioelectro
 
 ## Paintable Epidermal Electrodes
 
-I developed a paintable electronic tattoo that can be drawn directly onto the skin and functions as a wearable sensor after drying. The ultra-thin device maintains reliable monitoring of heart, muscle, and brain activity during daily activities, while its customizable shapes and colors improve comfort and user acceptance. This technology has the potential to advance long-term health monitoring, human–machine interaction, and next-generation wearable healthcare.
+I developed a paintable electronic tattoo that can be drawn directly onto the skin and functions as a wearable sensor after drying. Integrated with a interlocked-junction connector, the ultra-thin device maintains reliable monitoring of heart, muscle, and brain activity during daily activities, while its customizable shapes and colors improve comfort and user acceptance. This technology has the potential to advance long-term health monitoring, human–machine interaction, and next-generation wearable healthcare.
 
 <figure style="text-align:center; margin:15px 0;">
 
