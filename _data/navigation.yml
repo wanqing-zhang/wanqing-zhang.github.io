@@ -13,12 +13,13 @@ main:
 
   - title: "Research"
     url: /research/    
-        
-  - title: "Beyond Research"
-    url: /personal/
-    
+ 
   - title: "CV"
     url: /cv/
+    
+  - title: "Beyond Research"
+    url: /personal/
+
     
   # - title: "CV"
   #   url: /cv-json/
