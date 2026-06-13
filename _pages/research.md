@@ -21,7 +21,7 @@ Z. Liu, ABP. Lima, S. Yan, J. Zhong, C. Chuang, H. Cheng. “Paintable on-skin d
 </small>
 
 ## Conductive Hydrogels and Hydrogel Sensors
-My research focuses on conductive hydrogels and hydrogel-based sensing technologies for wearable and implantable bioelectronics. I developed a battery-free hydrogel-based sweat chloride sensor for non-invasive biochemical monitoring and am interested in engineering conductive hydrogels with improved conductivity, mechanical robustness, adhesion, environmental stability, and long-term interface reliability.
+My research focuses on conductive hydrogels and hydrogel-based sensing technologies for wearable bioelectronics. I developed a battery-free hydrogel-based sweat chloride sensor for non-invasive biochemical monitoring and am interested in engineering conductive hydrogels with improved conductivity, mechanical robustness, adhesion, environmental stability, and long-term interface reliability.
 
 <small>
 **Related publication:**  
