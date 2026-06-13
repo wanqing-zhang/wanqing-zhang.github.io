@@ -14,7 +14,7 @@ I developed a paintable electronic tattoo that can be drawn directly onto the sk
 
 <figure style="text-align:center; margin:0;">
   <img src="/images/research/shark electrode.png"
-       width="500">
+       width="200">
 
   <figcaption style="
       font-size:0.8em;
