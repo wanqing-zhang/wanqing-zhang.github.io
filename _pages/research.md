@@ -67,7 +67,7 @@ My research focuses on conductive hydrogels and hydrogel-based sensing technolog
       gap:20px;
   ">
 
-   <img src="/images/research/hydrogel sensor.png"
+   <img src="/images/research/hydrogelsensor.png"
          style="height:240px; width:auto;">
 
    <img src="/images/research/sensing principle.png"
