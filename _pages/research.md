@@ -6,6 +6,10 @@ author_profile: true
 
 My research focuses on wearable electronics, with an emphasis on soft bioelectronic interfaces, conductive hydrogels, epidermal sensors for physiological monitoring and human-machine interaction.
 
+{% if site.author.googlescholar %}
+  <div class="wordwrap">For a complete publication list, please visit my <a href="{{site.author.googlescholar}}">Google Scholar profile</a>.</div>
+{% endif %}
+
 ## Paintable Epidermal Electrodes
 
 I developed a paintable electronic tattoo that can be drawn directly onto the skin and functions as a wearable sensor after drying. The ultra-thin device maintains reliable monitoring of heart, muscle, and brain activity during daily activities, while its customizable shapes and colors improve comfort and user acceptance. This technology has the potential to advance long-term health monitoring, human–machine interaction, and next-generation wearable healthcare.
