@@ -58,6 +58,39 @@ W. Zhang, X. Xin, Y. Wang, et al. “Paintable on-skin dry electrodes with robus
 ## Conductive Hydrogels and Hydrogel Sensors
 My research focuses on conductive hydrogels and hydrogel-based sensing technologies for wearable bioelectronics. I developed a battery-free hydrogel-based sweat chloride sensor for non-invasive biochemical monitoring and am interested in engineering conductive hydrogels with improved conductivity, mechanical robustness, adhesion, environmental stability, and long-term interface reliability.
 
+<figure style="text-align:center; margin:15px 0;">
+
+  <div style="
+      display:flex;
+      justify-content:center;
+      align-items:center;
+      gap:20px;
+  ">
+
+  <img src="/images/research/shark electrode.png"
+         style="
+         height:380px;
+         width:auto;
+         ">
+
+  <img src="/images/research/connection.png"
+         style="
+         height:380px;
+         width:auto;
+         ">
+
+  </div>
+
+  <figcaption style="
+      font-size:0.8em;
+      color:#666;
+      margin-top:6px;
+      line-height:1.2;
+  ">
+      Personalized paintable electrodes and robust device integration for next-generation wearable bioelectronic interfaces.
+  </figcaption>
+
+</figure>
 <small>
 **Selected publication:**  
 W. Zhang<sup>#</sup>, Y. Yang<sup>#</sup>, S. Zhang, et al. "Designing PEDOT:PSS hydrogels for bioelectronic interfaces", *Advanced Materials*, Under Review (2026).
