@@ -16,7 +16,7 @@ I developed a paintable electronic tattoo that can be drawn directly onto the sk
   <p align="center">
     <img src="/images/research/shark electrode.png" width="600">
   </p>
-  <figcaption align="center">
+  <figcaption style="font-size:0.8em; color:#666; margin-top:5px;">
     Personalized Baby Shark-shaped paintable electrode for ECG monitoring.
   </figcaption>
 </figure>
