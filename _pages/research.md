@@ -7,8 +7,6 @@ author_profile: true
 My research focuses on wearable electronics, with an emphasis on soft bioelectronic interfaces, conductive hydrogels, epidermal sensors for physiological monitoring and human-machine interaction.
 
 
-  <div class="wordwrap">For a complete publication list, please visit my <a href="{{site.author.googlescholar}}">Google Scholar profile</a>.</div>
-
 
 ## Paintable Epidermal Electrodes
 
