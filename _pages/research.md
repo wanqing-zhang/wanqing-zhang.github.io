@@ -17,32 +17,22 @@ I developed a paintable electronic tattoo that can be drawn directly onto the sk
   <div style="
       display:flex;
       justify-content:center;
+      align-items:center;
       gap:20px;
-      flex-wrap:wrap;
   ">
 
    <img src="/images/research/shark electrode.png"
-         style="
-         width:48%;
-         max-width:500px;
-         height:430px;
-         object-fit:cover;
-         ">
+         style="height:240px; width:auto;">
 
    <img src="/images/research/connection.png"
-         style="
-         width:48%;
-         max-width:500px;
-         height:430px;
-         object-fit:cover;
-         ">
+         style="height:240px; width:auto;">
 
   </div>
 
   <figcaption style="
       font-size:0.8em;
       color:#666;
-      margin-top:8px;
+      margin-top:6px;
       line-height:1.2;
   ">
       Personalized paintable electrodes and robust device integration for next-generation wearable bioelectronic interfaces.
