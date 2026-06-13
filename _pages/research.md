@@ -19,8 +19,7 @@ I developed a paintable electronic tattoo that can be drawn directly onto the sk
 
 <small>
 **Related publication:**  
-**W. Zhang**, X. Xin, Y. Wang, X. Zhang, S. Zhang, Y. Yang, S. Xia, AM. Abdullah, FT. Zohra, B. Li, J. Yang, A. Dutta,
-Z. Liu, ABP. Lima, S. Yan, J. Zhong, C. Chuang, H. Cheng. “Paintable on-skin dry electrodes with robust skin and device connection for wireless sensing and human-machine interfaces”, *Proceedings of the National Academy of Sciences*, In Press, 2026.
+**W. Zhang**, X. Xin, Y. Wang, et al. “Paintable on-skin dry electrodes with robust skin and device connection for wireless sensing and human-machine interfaces”, *Proceedings of the National Academy of Sciences*, In Press, 2026.
 </small>
 
 ## Conductive Hydrogels and Hydrogel Sensors
@@ -28,16 +27,13 @@ My research focuses on conductive hydrogels and hydrogel-based sensing technolog
 
 <small>
 **Related publication:**  
-**W. Zhang#**, Y. Yang#, S. Zhang, Z. Liu, MA. Amidian, R. Jacob, ABP. Lima, H. Cheng. "Designing PEDOT:PSS hydrogels for bioelectronic interfaces", *Advanced Materials*, Under Review (2026).
+**W. Zhang#**, Y. Yang#, S. Zhang, et al. "Designing PEDOT:PSS hydrogels for bioelectronic interfaces", *Advanced Materials*, Under Review (2026).
 <br><br>
-FT. Zohra<sup>#</sup>, AM. Abdullah<sup>#</sup>, Y. Yuan, Y. Wang, J. Lin, **W. Zhang**, KS. Shahed, X. Zhang, MAS. Biswas, B. Li, X. Lian, S. Yan, H. Cheng. “Ultrasoft, adhesive, pH tunable hydrogel based on in situ functionalized laser-induced graphene
-for through-hair concurrent biosensing”, *Science Advances*, In Press, aee5890 (2026)
+FT. Zohra<sup>#</sup>, AM. Abdullah<sup>#</sup>, Y. Yuan, et al. “Ultrasoft, adhesive, pH tunable hydrogel based on in situ functionalized laser-induced graphene for through-hair concurrent biosensing”, *Science Advances*, In Press, aee5890 (2026)
 <br><br>
-A. Dutta, MAS. Biswas, L. Meng, E. Gerhard, AM. Calva, **W. Zhang**, AM. Abdullah, L. Joharji, Y. Che, J. Yang, X.
-Hu, H. Cheng. “Controlling thermoreversibility and hole conductivity in thermoresponsive ionic biogels using phase
-morphology for neurohaptics”, *Science Advances*, 12, eaee0777 (2026)
+A. Dutta, MAS. Biswas, L. Meng, et al. “Controlling thermoreversibility and hole conductivity in thermoresponsive ionic biogels using phase morphology for neurohaptics”, *Science Advances*, 12, eaee0777 (2026)
 <br><br>
-**W. Zhang**, X. Zhang, A. Dutta, F. Lorestani, MAS. Biswas, B. Li, AM. Abdullah, and H. Cheng. "Hydrogel-based sweat chloride sensor with high sensitivity and low hysteresis", *Biosensors and Bioelectronics*, 288, 117805 (2025)
+**W. Zhang**, X. Zhang, A. Dutta, et al. "Hydrogel-based sweat chloride sensor with high sensitivity and low hysteresis", *Biosensors and Bioelectronics*, 288, 117805 (2025)
 </small>
 
 ## Sensing and Manufacturing Technologies
