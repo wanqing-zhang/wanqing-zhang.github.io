@@ -13,11 +13,8 @@ main:
 
   - title: "Research"
     url: /research/    
-
-  - title: "Publications"
-    url: /publications/    
         
-  - title: "About me"
+  - title: "Beyond Research"
     url: /year-archive/
     
   - title: "CV"
