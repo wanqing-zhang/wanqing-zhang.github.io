@@ -14,7 +14,7 @@ I developed a paintable electronic tattoo that can be drawn directly onto the sk
 **W. Zhang**, X. Xin, Y. Wang, X. Zhang, S. Zhang, Y. Yang, S. Xia, AM. Abdullah, FT. Zohra, B. Li, J. Yang, A. Dutta,
 Z. Liu, ABP. Lima, S. Yan, J. Zhong, C. Chuang, H. Cheng. “Paintable on-skin dry electrodes with robust skin and device connection for wireless sensing and human-machine interfaces”, *Proceedings of the National Academy of Sciences*, In Press, 2026.
 
-## Conductive Hydrogels and Hydrogel-Based Sensors
+## Conductive Hydrogels and Hydrogel Sensors
 My research focuses on conductive hydrogels and hydrogel-based sensing technologies for wearable and implantable bioelectronics. I developed a battery-free hydrogel-based sweat chloride sensor for non-invasive biochemical monitoring and am interested in engineering conductive hydrogels with improved conductivity, mechanical robustness, adhesion, environmental stability, and long-term interface reliability.
 
 **Related publication:**  
