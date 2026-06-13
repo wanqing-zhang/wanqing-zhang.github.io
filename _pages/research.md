@@ -9,9 +9,6 @@ My research focuses on wearable electronics, with an emphasis on soft bioelectro
 
   <div class="wordwrap">For a complete publication list, please visit my <a href="{{site.author.googlescholar}}">Google Scholar profile</a>.</div>
 
-<p style="font-size: 0.8em; color: #666;">
-<sup>#</sup> Indicates equal contribution.
-</p>
 
 ## Paintable Epidermal Electrodes
 
@@ -57,3 +54,7 @@ W. Zhang<sup>#</sup>, L. Zhang<sup>#</sup>, Y. Liao, et al. “Conformal manufac
 <br>
 W. Zhang, L. Huang, RN. Weinreb, et al. “Wearable electronic devices for glaucoma monitoring and therapy”, *Materials & Design*, 212, 110183 (2021).
 </small>
+
+<p style="font-size: 0.8em; color: #666;">
+<sup>#</sup> Indicates equal contribution.
+</p>
