@@ -12,9 +12,13 @@ My research focuses on wearable electronics, with an emphasis on soft bioelectro
 
 I developed a paintable electronic tattoo that can be drawn directly onto the skin and functions as a wearable sensor after drying. The ultra-thin device maintains reliable monitoring of heart, muscle, and brain activity during daily activities, while its customizable shapes and colors improve comfort and user acceptance. This technology has the potential to advance long-term health monitoring, human–machine interaction, and next-generation wearable healthcare.
 
-<figure style="text-align:center; margin:0;">
+<figure style="text-align:center; margin:15px 0;">
+
   <img src="/images/research/shark electrode.png"
-       width="200">
+       style="width:48%; max-width:450px; margin-right:1%;">
+
+  <img src="/images/research/connection.png"
+       style="width:48%; max-width:450px;">
 
   <figcaption style="
       font-size:0.8em;
@@ -22,8 +26,9 @@ I developed a paintable electronic tattoo that can be drawn directly onto the sk
       margin-top:4px;
       line-height:1.2;
   ">
-      Personalized Baby Shark-shaped paintable electrode for ECG monitoring.
+      Personalized paintable electrodes and robust device integration for next-generation wearable bioelectronic interfaces.
   </figcaption>
+
 </figure>
      
 <small>
