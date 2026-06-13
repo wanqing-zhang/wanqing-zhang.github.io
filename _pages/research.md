@@ -28,11 +28,11 @@ My research focuses on conductive hydrogels and hydrogel-based sensing technolog
 <small>
 **Related publication:**  
 **W. Zhang#**, Y. Yang#, S. Zhang, et al. "Designing PEDOT:PSS hydrogels for bioelectronic interfaces", *Advanced Materials*, Under Review (2026).
-<br><br>
+<br>
 FT. Zohra<sup>#</sup>, AM. Abdullah<sup>#</sup>, Y. Yuan, et al. “Ultrasoft, adhesive, pH tunable hydrogel based on in situ functionalized laser-induced graphene for through-hair concurrent biosensing”, *Science Advances*, In Press, aee5890 (2026)
-<br><br>
+<br>
 A. Dutta, MAS. Biswas, L. Meng, et al. “Controlling thermoreversibility and hole conductivity in thermoresponsive ionic biogels using phase morphology for neurohaptics”, *Science Advances*, 12, eaee0777 (2026)
-<br><br>
+<br>
 **W. Zhang**, X. Zhang, A. Dutta, et al. "Hydrogel-based sweat chloride sensor with high sensitivity and low hysteresis", *Biosensors and Bioelectronics*, 288, 117805 (2025)
 </small>
 
