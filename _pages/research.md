@@ -67,13 +67,13 @@ My research focuses on conductive hydrogels and hydrogel-based sensing technolog
       gap:20px;
   ">
 
-  <img src="/images/research/shark electrode.png"
+  <img src="/images/research/hydrogelsensor.png"
          style="
          height:380px;
          width:auto;
          ">
 
-  <img src="/images/research/connection.png"
+  <img src="/images/research/sensing principle"
          style="
          height:380px;
          width:auto;
@@ -87,7 +87,7 @@ My research focuses on conductive hydrogels and hydrogel-based sensing technolog
       margin-top:6px;
       line-height:1.2;
   ">
-      Personalized paintable electrodes and robust device integration for next-generation wearable bioelectronic interfaces.
+      Hydrogel sweat chloride sensor and the underlying concentration-gradient-induced sensing mechanism.
   </figcaption>
 
 </figure>
