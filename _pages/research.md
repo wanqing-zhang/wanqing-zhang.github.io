@@ -18,7 +18,7 @@ My research focuses on wearable electronics, with an emphasis on soft bioelectro
 I developed a paintable electronic tattoo that can be drawn directly onto the skin and functions as a wearable sensor after drying. The ultra-thin device maintains reliable monitoring of heart, muscle, and brain activity during daily activities, while its customizable shapes and colors improve comfort and user acceptance. This technology has the potential to advance long-term health monitoring, human–machine interaction, and next-generation wearable healthcare.
 
 <small>
-**Related publication:**  
+**Selected publication:**  
 **W. Zhang**, X. Xin, Y. Wang, et al. “Paintable on-skin dry electrodes with robust skin and device connection for wireless sensing and human-machine interfaces”, *Proceedings of the National Academy of Sciences*, In Press, 2026.
 </small>
 
@@ -26,7 +26,7 @@ I developed a paintable electronic tattoo that can be drawn directly onto the sk
 My research focuses on conductive hydrogels and hydrogel-based sensing technologies for wearable bioelectronics. I developed a battery-free hydrogel-based sweat chloride sensor for non-invasive biochemical monitoring and am interested in engineering conductive hydrogels with improved conductivity, mechanical robustness, adhesion, environmental stability, and long-term interface reliability.
 
 <small>
-**Related publication:**  
+**Selected publication:**  
 **W. Zhang#**, Y. Yang#, S. Zhang, et al. "Designing PEDOT:PSS hydrogels for bioelectronic interfaces", *Advanced Materials*, Under Review (2026).
 <br>
 FT. Zohra<sup>#</sup>, AM. Abdullah<sup>#</sup>, Y. Yuan, et al. “Ultrasoft, adhesive, pH tunable hydrogel based on in situ functionalized laser-induced graphene for through-hair concurrent biosensing”, *Science Advances*, In Press, aee5890 (2026)
@@ -40,7 +40,7 @@ A. Dutta, MAS. Biswas, L. Meng, et al. “Controlling thermoreversibility and ho
 I am also interested in sensing and manufacturing technologies for wearable electronics. 
 
 <small>
-**Related publications:**  
+**Selected publications:**  
 Y. Yuan<sup>#</sup>, **W. Zhang<sup>#</sup>**, J. Yang, M. Peng, H. Cheng, “Recent Advances in Decoupling Strategies for Soft Sensors”,
 *Advanced Science*, 13:e14499 (2026).
 </small>
