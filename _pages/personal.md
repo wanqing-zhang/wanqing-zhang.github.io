@@ -171,7 +171,6 @@ new Swiper(".danceSwiper", {
 
 </script>
 
-## Let's Connect
 
 ## Let's Connect
 
