@@ -45,7 +45,7 @@ Beyond being a Ph.D. student, I am a full-time employee of two feline supervisor
 
 ## Dance
 
-Before becoming a researcher, I spent more than 15 years training in Chinese classical dance. This means that when experiments fail, I am at least capable of failing with good posture. Outside the lab, I enjoy performing on stage, where I exchange lab coats for costumes and scientific presentations for dance performances. As it turns out, both research and dance require careful preparation, endless practice, and a certain amount of optimism that nothing unexpected happens when the spotlight turns on.
+Long before I started conducting research, I began training in Chinese classical dance-a passion that has remained with me for more than 20 years. I enjoy performing on stage, where I exchange lab coats for costumes and scientific presentations for dance performances. As it turns out, both research and dance require careful preparation, endless practice, and a certain amount of optimism that nothing unexpected happens when the spotlight turns on.
 
 <div class="swiper danceSwiper">
 
@@ -173,4 +173,8 @@ new Swiper(".danceSwiper", {
 
 ## Let's Connect
 
-One of the most rewarding aspects of academic life is meeting people from diverse cultures and backgrounds. I enjoy learning from others, sharing experiences, and building meaningful connections. If you happen to visit this page, feel free to say hello.
+## Let's Connect
+
+One of the best parts of academia is meeting curious people from all over the world. I enjoy exchanging ideas, learning from different perspectives, and occasionally discovering that someone else also has a cat who runs their household.
+
+If you happen to visit this page, feel free to say hello. Whether your interests are in wearables, dance, cats, I'd love to connect. ☕️
