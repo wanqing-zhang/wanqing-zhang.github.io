@@ -102,7 +102,23 @@ Long before I started conducting research, I began training in Chinese classical
    <div class="swiper-slide">
       <img src="/images/personal/dance13.png">
     </div>
+    
+   <div class="swiper-slide">
+      <img src="/images/personal/dance14.png">
+    </div>
 
+   <div class="swiper-slide">
+      <img src="/images/personal/dance15.png">
+    </div>
+
+   <div class="swiper-slide">
+      <img src="/images/personal/dance16.png">
+    </div>
+
+   <div class="swiper-slide">
+      <img src="/images/personal/dance17.png">
+    </div>
+    
   </div>
 
   <div class="swiper-button-next"></div>
