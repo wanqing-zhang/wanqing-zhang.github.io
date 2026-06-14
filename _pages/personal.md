@@ -87,6 +87,22 @@ Before becoming a researcher, I spent more than 15 years training in Chinese cla
       <img src="/images/personal/dance9.png">
     </div>
 
+   <div class="swiper-slide">
+      <img src="/images/personal/dance10.png">
+    </div>
+
+   <div class="swiper-slide">
+      <img src="/images/personal/dance11.png">
+    </div>
+
+   <div class="swiper-slide">
+      <img src="/images/personal/dance12.png">
+    </div>
+    
+   <div class="swiper-slide">
+      <img src="/images/personal/dance13.png">
+    </div>
+
   </div>
 
   <div class="swiper-button-next"></div>
