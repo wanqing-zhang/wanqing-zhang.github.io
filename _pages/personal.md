@@ -53,15 +53,15 @@ Before becoming a researcher, I spent more than 15 years training in Chinese cla
   <div class="swiper-wrapper">
 
   <div class="swiper-slide">
-      <img src="/images/personal/dance1.jpg">
+      <img src="/images/personal/dance1.png">
     </div>
 
    <div class="swiper-slide">
-      <img src="/images/personal/dance2.jpg">
+      <img src="/images/personal/dance2.png">
     </div>
 
    <div class="swiper-slide">
-      <img src="/images/personal/dance3.jpg">
+      <img src="/images/personal/dance3.png">
     </div>
 
    <div class="swiper-slide">
@@ -69,23 +69,23 @@ Before becoming a researcher, I spent more than 15 years training in Chinese cla
     </div>
 
    <div class="swiper-slide">
-      <img src="/images/personal/dance5.jpg">
+      <img src="/images/personal/dance5.png">
     </div>
 
    <div class="swiper-slide">
-      <img src="/images/personal/dance6.jpg">
+      <img src="/images/personal/dance6.png">
     </div>
 
    <div class="swiper-slide">
-      <img src="/images/personal/dance7.jpg">
+      <img src="/images/personal/dance7.png">
     </div>
 
    <div class="swiper-slide">
-      <img src="/images/personal/dance8.jpg">
+      <img src="/images/personal/dance8.png">
     </div>
 
    <div class="swiper-slide">
-      <img src="/images/personal/dance9.jpg">
+      <img src="/images/personal/dance9.png">
     </div>
 
   </div>
