@@ -4,11 +4,6 @@ title: "Beyond Research"
 author_profile: true
 ---
 
-<link rel="stylesheet"
-href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"/>
-
-<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
-
 Outside the lab, I enjoy Chinese classical dance, cultural performances, traveling, and spending time with my two cats, Yorkie and Cessna. These experiences have helped shape my creativity, discipline, and appreciation for diverse perspectives, which I also bring into my research.
 
 ## Meet My Real Supervisors
@@ -48,113 +43,54 @@ Beyond being a Ph.D. student, I am a full-time employee of two feline supervisor
 
 Before becoming a researcher, I spent more than 15 years training in Chinese classical dance. This means that when experiments fail, I am at least capable of failing with good posture. Outside the lab, I enjoy performing on stage, where I exchange lab coats for costumes and scientific presentations for dance performances. As it turns out, both research and dance require careful preparation, endless practice, and a certain amount of optimism that nothing unexpected happens when the spotlight turns on.
 
-<div class="swiper danceSwiper">
+<figure style="text-align:center; margin:20px 0;">
 
-  <div class="swiper-wrapper">
+  <img src="/images/personal/dance1.jpg"
+       style="width:80%; max-width:760px; border-radius:10px;">
 
-  <div class="swiper-slide">
-      <img src="/images/personal/dance1.png">
-    </div>
+  <div style="
+      display:grid;
+      grid-template-columns:repeat(2, 1fr);
+      gap:12px;
+      margin-top:12px;
+  ">
 
-   <div class="swiper-slide">
-      <img src="/images/personal/dance2.png">
-    </div>
+   <img src="/images/personal/dance2.png"
+         style="width:100%; height:260px; object-fit:cover; border-radius:10px;">
 
-   <div class="swiper-slide">
-      <img src="/images/personal/dance3.png">
-    </div>
+   <img src="/images/personal/dance3.png"
+         style="width:100%; height:260px; object-fit:cover; border-radius:10px;">
 
-   <div class="swiper-slide">
-      <img src="/images/personal/dance4.jpg">
-    </div>
+   <img src="/images/personal/dance4.png"
+         style="width:100%; height:260px; object-fit:cover; border-radius:10px;">
 
-   <div class="swiper-slide">
-      <img src="/images/personal/dance5.png">
-    </div>
+   <img src="/images/personal/dance5.png"
+         style="width:100%; height:260px; object-fit:cover; border-radius:10px;">
 
-   <div class="swiper-slide">
-      <img src="/images/personal/dance6.png">
-    </div>
+   <img src="/images/personal/dance6.png"
+         style="width:100%; height:260px; object-fit:cover; border-radius:10px;">
 
-   <div class="swiper-slide">
-      <img src="/images/personal/dance7.png">
-    </div>
+   <img src="/images/personal/dance7.png"
+         style="width:100%; height:260px; object-fit:cover; border-radius:10px;">
 
-   <div class="swiper-slide">
-      <img src="/images/personal/dance8.png">
-    </div>
+   <img src="/images/personal/dance8.png"
+         style="width:100%; height:260px; object-fit:cover; border-radius:10px;">
 
-   <div class="swiper-slide">
-      <img src="/images/personal/dance9.png">
-    </div>
+   <img src="/images/personal/dance9.png"
+         style="width:100%; height:260px; object-fit:cover; border-radius:10px;">
 
   </div>
 
-  <div class="swiper-button-next"></div>
-  <div class="swiper-button-prev"></div>
+  <figcaption style="
+      font-size:0.8em;
+      color:#666;
+      margin-top:8px;
+      line-height:1.2;
+  ">
+      From rehearsal studios to theater stages, Chinese classical dance has been part of my life for more than 15 years.
+  </figcaption>
 
-  <div class="swiper-pagination"></div>
-
-</div>
-<style>
-
-.danceSwiper{
-  width:100%;
-  margin-top:20px;
-  margin-bottom:10px;
-}
-
-.danceSwiper img{
-  width:100%;
-  height:450px;
-  object-fit:cover;
-  border-radius:10px;
-}
-
-</style>
-<script>
-
-new Swiper(".danceSwiper", {
-
-  slidesPerView: 3,
-
-  spaceBetween: 15,
-
-  loop: true,
-
-  centeredSlides: true,
-
-  autoplay:{
-    delay:3000,
-    disableOnInteraction:false,
-  },
-
-  pagination:{
-    el:".swiper-pagination",
-    clickable:true,
-  },
-
-  navigation:{
-    nextEl:".swiper-button-next",
-    prevEl:".swiper-button-prev",
-  },
-
-  breakpoints:{
-    0:{
-      slidesPerView:1,
-    },
-    768:{
-      slidesPerView:2,
-    },
-    1024:{
-      slidesPerView:3,
-    }
-  }
-
-});
-
-</script>
-
+</figure>
 
 ## Let's Connect
 
