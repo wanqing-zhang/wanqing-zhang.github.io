@@ -3,8 +3,11 @@ permalink: /personal/
 title: "Beyond Research"
 author_profile: true
 ---
+
 <link rel="stylesheet"
-href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css">
+href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"/>
+
+<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
 
 Outside the lab, I enjoy Chinese classical dance, cultural performances, traveling, and spending time with my two cats, Yorkie and Cessna. These experiences have helped shape my creativity, discipline, and appreciation for diverse perspectives, which I also bring into my research.
 
@@ -44,6 +47,113 @@ Beyond being a Ph.D. student, I am a full-time employee of two feline supervisor
 ## Dance
 
 Before becoming a researcher, I spent more than 15 years training in Chinese classical dance. This means that when experiments fail, I am at least capable of failing with good posture. Outside the lab, I enjoy performing on stage, where I exchange lab coats for costumes and scientific presentations for dance performances. As it turns out, both research and dance require careful preparation, endless practice, and a certain amount of optimism that nothing unexpected happens when the spotlight turns on.
+
+<div class="swiper danceSwiper">
+
+  <div class="swiper-wrapper">
+
+  <div class="swiper-slide">
+      <img src="/images/personal/dance1.jpg">
+    </div>
+
+   <div class="swiper-slide">
+      <img src="/images/personal/dance2.jpg">
+    </div>
+
+   <div class="swiper-slide">
+      <img src="/images/personal/dance3.jpg">
+    </div>
+
+   <div class="swiper-slide">
+      <img src="/images/personal/dance4.jpg">
+    </div>
+
+   <div class="swiper-slide">
+      <img src="/images/personal/dance5.jpg">
+    </div>
+
+   <div class="swiper-slide">
+      <img src="/images/personal/dance6.jpg">
+    </div>
+
+   <div class="swiper-slide">
+      <img src="/images/personal/dance7.jpg">
+    </div>
+
+   <div class="swiper-slide">
+      <img src="/images/personal/dance8.jpg">
+    </div>
+
+   <div class="swiper-slide">
+      <img src="/images/personal/dance9.jpg">
+    </div>
+
+  </div>
+
+  <div class="swiper-button-next"></div>
+  <div class="swiper-button-prev"></div>
+
+  <div class="swiper-pagination"></div>
+
+</div>
+<style>
+
+.danceSwiper{
+  width:100%;
+  margin-top:20px;
+  margin-bottom:10px;
+}
+
+.danceSwiper img{
+  width:100%;
+  height:450px;
+  object-fit:cover;
+  border-radius:10px;
+}
+
+</style>
+<script>
+
+new Swiper(".danceSwiper", {
+
+  slidesPerView: 3,
+
+  spaceBetween: 15,
+
+  loop: true,
+
+  centeredSlides: true,
+
+  autoplay:{
+    delay:3000,
+    disableOnInteraction:false,
+  },
+
+  pagination:{
+    el:".swiper-pagination",
+    clickable:true,
+  },
+
+  navigation:{
+    nextEl:".swiper-button-next",
+    prevEl:".swiper-button-prev",
+  },
+
+  breakpoints:{
+    0:{
+      slidesPerView:1,
+    },
+    768:{
+      slidesPerView:2,
+    },
+    1024:{
+      slidesPerView:3,
+    }
+  }
+
+});
+
+</script>
 
 
 ## Let's Connect
