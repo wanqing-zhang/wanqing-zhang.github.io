@@ -21,7 +21,8 @@ Beyond being a Ph.D. student, I am a full-time employee of two feline supervisor
 
    <img src="/images/personal/Yorkie.png"
          style="height:240px; width:auto;">
-
+   <img src="/images/personal/Cat.png"
+         style="height:240px; width:auto;">
    <img src="/images/personal/Cessna.png"
          style="height:240px; width:auto;">
 
