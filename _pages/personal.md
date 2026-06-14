@@ -190,6 +190,6 @@ new Swiper(".danceSwiper", {
 
 ## Let's Connect
 
-One of the best parts of academia is meeting curious people from all over the world. I enjoy exchanging ideas, learning from different perspectives, and occasionally discovering that someone else also has a cat who runs their household.
+One of the best parts of academia is meeting curious people from all over the world. I enjoy exchanging ideas, and learning from different perspectives. 
 
 If you happen to visit this page, feel free to say hello. Whether your interests are in wearables, dance, cats, I'd love to connect. ☕️
