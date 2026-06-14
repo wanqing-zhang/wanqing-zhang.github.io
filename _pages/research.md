@@ -46,7 +46,7 @@ W. Zhang, X. Xin, Y. Wang, et al. “Paintable on-skin dry electrodes with robus
 </small>
 
 ## Conductive Hydrogels and Hydrogel Sensors
-My research focuses on conductive hydrogels and hydrogel-based sensing technologies for wearable bioelectronics. I developed a battery-free hydrogel-based sweat chloride sensor for non-invasive biochemical monitoring and am interested in engineering conductive hydrogels with improved conductivity, mechanical robustness, adhesion, environmental stability, and long-term interface reliability.
+I developed a battery-free hydrogel-based sweat chloride sensor for non-invasive biochemical monitoring and am interested in engineering conductive hydrogels with improved conductivity, mechanical robustness, adhesion, environmental stability, and long-term interface reliability.
 
 <figure style="text-align:center; margin:15px 0;">
 
