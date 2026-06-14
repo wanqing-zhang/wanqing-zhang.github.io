@@ -8,7 +8,7 @@ href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"/>
 
 <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
 
-Outside the lab, I enjoy Chinese classical dance, cultural performances, traveling, and spending time with my two cats, Yorkie and Cessna. These experiences have helped shape my creativity, discipline, and appreciation for diverse perspectives, which I also bring into my research.
+Work-life balance
 
 ## Meet My Real Supervisors
 
