@@ -42,7 +42,7 @@ I developed a paintable electronic tattoo that can be drawn directly onto the sk
      
 <small>
 **Selected publication:**  
-W. Zhang, X. Xin, Y. Wang, et al. “Paintable on-skin dry electrodes with robust skin and device connection for wireless sensing and human-machine interfaces”, *Proceedings of the National Academy of Sciences*, Revision Submitted, 2026.
+W. Zhang, X. Xin, Y. Wang, et al. “Paintable on-skin dry electrodes with robust skin and device connection for wireless sensing and human-machine interfaces”, *Proceedings of the National Academy of Sciences*, In Press, 2026.
 </small>
 
 ## Conductive Hydrogels and Hydrogel Sensors
