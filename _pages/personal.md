@@ -18,30 +18,25 @@ Beyond being a Ph.D. student, I am a full-time employee of two feline supervisor
 
 <figure style="text-align:center; margin:15px 0;">
 
-  <div style="
-      display:flex;
-      justify-content:center;
-      align-items:center;
-      gap:20px;
-  ">
+<div class="cat-gallery">
 
-   <img src="/images/personal/Yorkie.png"
-         style="height:240px; width:auto;">
-   <img src="/images/personal/cat.png"
-         style="height:240px; width:auto;">
-   <img src="/images/personal/Cessna.png"
-         style="height:240px; width:auto;">
+  <div class="cat-photo-row">
+
+   <img src="/images/personal/Yorkie.png" alt="Yorkie">
+
+   <img src="/images/personal/cat.png" alt="Yorkie and Cessna">
+
+   <img src="/images/personal/Cessna.png" alt="Cessna">
 
   </div>
 
-  <figcaption style="
-      font-size:0.8em;
-      color:#666;
-      margin-top:6px;
-      line-height:1.2;
-  ">
-      Yorkie (she/her, left) and Cessna (she/her, right), my real supervisors. Thanks to my exceptional job performance, I have earned the privilege of living in their residence.
-  </figcaption>
+  <p class="cat-caption">
+    Yorkie (she/her, left) and Cessna (she/her, right), my real supervisors.
+    Thanks to my exceptional job performance, I have earned the privilege of
+    living in their residence.
+  </p>
+
+</div>
 
 </figure>
 
@@ -51,45 +46,65 @@ Before Yorkie and Cessna, there were Yaoyao and Mango.  They walked beside me fr
 
 <div class="dog-gallery">
 
-<div class="dog-gallery">
-
-  <!-- 第一排 -->
   <img src="/images/personal/yaoyaomango1.JPG"
        class="dog-banner">
 
-  <!-- 第二排 -->
   <div class="dog-photo-row">
       <img src="/images/personal/mango.JPG">
       <img src="/images/personal/yaoyaomango2.JPG">
       <img src="/images/personal/yaoyao.JPG">
   </div>
 
-  <!-- 第三排 -->
   <img src="/images/personal/yaoyaomango3.JPG"
        class="dog-drawing">
 
 </div>
 
-</div>
-
 <style>
+/* ---------- Cats ---------- */
 
+.cat-gallery{
+    max-width:720px;
+    margin:18px auto 40px auto;
+}
+
+.cat-photo-row{
+    display:flex;
+    justify-content:center;
+    gap:18px;
+}
+
+.cat-photo-row img{
+    height:240px;
+    width:auto;
+    border-radius:8px;
+}
+
+.cat-caption{
+    text-align:center;
+    font-size:0.82em;
+    color:#777;
+    margin-top:8px;
+    line-height:1.3;
+}
+  
+/* ---------- Dogs ---------- */
 .dog-gallery{
     max-width:720px;
     margin:20px auto 28px auto;
 }
 
-/* 第一排横幅 */
+
 .dog-banner{
     width:100%;
     height:190px;
     object-fit:cover;
-    object-position:center 20%;   /* 只显示上半部分 */
+    object-position:center 20%; 
     border-radius:10px;
     margin-bottom:14px;
 }
 
-/* 第二排 */
+
 .dog-photo-row{
     display:flex;
     justify-content:center;
@@ -104,12 +119,12 @@ Before Yorkie and Cessna, there were Yaoyao and Mango.  They walked beside me fr
     border-radius:8px;
 }
 
-/* 抱抱这张往上移动一点，避免裁头 */
+
 .dog-photo-row img:nth-child(2){
     object-position:center top;
 }
 
-/* 第三排 */
+
 .dog-drawing{
     display:block;
     width:50%;
