@@ -59,7 +59,6 @@ Before Yorkie and Cessna, there were Yaoyao and Mango.  They walked beside me fr
 
   <img src="/images/personal/yaoyaomango1.JPG">
   <img src="/images/personal/yaoyaomango3.JPG"
-       class="dog-drawing">
 
 </div>
 
