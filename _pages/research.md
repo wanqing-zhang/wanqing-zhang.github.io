@@ -78,7 +78,7 @@ I developed a battery-free hydrogel-based sweat chloride sensor for non-invasive
 
 <small>
 **Selected publication:**  
-W. Zhang<sup>#</sup>, Y. Yang<sup>#</sup>, S. Zhang, et al. "Designing PEDOT:PSS hydrogels for bioelectronic interfaces", *Advanced Materials*, Under Review (2026).
+W. Zhang<sup>#</sup>, Y. Yang<sup>#</sup>, S. Zhang, et al. "Designing PEDOT:PSS hydrogels for bioelectronic interfaces", *Materials Today*, Under Review (2026).
 <br>
 FT. Zohra<sup>#</sup>, AM. Abdullah<sup>#</sup>, Y. Yuan, et al. “Ultrasoft, adhesive, pH tunable hydrogel based on in situ functionalized laser-induced graphene for through-hair concurrent biosensing”, *Science Advances*, In Press, aee5890 (2026).
 <br>
