@@ -70,10 +70,6 @@ Before Yorkie and Cessna, there were Yaoyao and Mango.  They walked beside me fr
 
 </div>
 
-<p class="dog-caption">
-  Forever in my heart.
-</p>
-
 </div>
 
 <style>
