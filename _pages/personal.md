@@ -52,19 +52,16 @@ Before Yorkie and Cessna, there were Yaoyao and Mango.  They walked beside me fr
 <div class="dog-gallery">
 
   <div class="dog-photo-row">
-    <img src="/images/personal/yaoyaomango1.JPG">
     <img src="/images/personal/yaoyaomango2.JPG">
     <img src="/images/personal/yaoyao.JPG">
+    <img src="/images/personal/mango.JPG">
   </div>
 
+  <img src="/images/personal/yaoyaomango1.JPG">
   <img src="/images/personal/yaoyaomango3.JPG"
        class="dog-drawing">
 
 </div>
-
-<p class="dog-caption">
-  Forever in my heart.
-</p>
 
 <style>
 .dog-gallery {
