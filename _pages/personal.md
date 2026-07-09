@@ -49,29 +49,23 @@ My First Best Friends
 
 Before Yorkie and Cessna, there were Yaoyao and Mango.  They walked beside me from elementary school through college and into my Ph.D.  Though they are no longer with me, they will always be part of my story.
 
-<figure style="text-align:center; margin:15px 0;">
+<div class="dog-gallery">
+  <!-- Row 1: hero photo -->
+  <img src="/images/personal/yaoyaomango1.JPG" alt="Yaoyao and Mango together" class="dog-hero">
 
-  <div style="
-      display:flex;
-      justify-content:center;
-      align-items:center;
-      gap:20px;
-  ">
-
-   <img src="/images/personal/yaoyaomango1.JPG"
-         style="height:240px; width:auto;">
-   <img src="/images/personal/yaoyaomango2.JPG"
-         style="height:240px; width:auto;">
-   <img src="/images/personal/yaoyao.JPG"
-         style="height:240px; width:auto;">
-   <img src="/images/personal/mango.JPG"
-         style="height:240px; width:auto;">
-   <img src="/images/personal/yaoyaomango3.JPG"
-         style="height:240px; width:auto;">
-
+  <!-- Row 2: two photos -->
+  <div class="dog-row">
+    <img src="/images/personal/yaoyao.JPG" alt="Yaoyao">
+    <img src="/images/personal/mango.JPG" alt="Mango">
   </div>
 
-</figure>
+  <!-- Row 3: drawing -->
+  <img src="/images/personal/yaoyaomango3.JPG" alt="A drawing in memory of Yaoyao and Mango" class="dog-drawing">
+</div>
+
+<p class="dog-caption">
+  Forever in my heart.
+</p>
 
 ## Dance
 
