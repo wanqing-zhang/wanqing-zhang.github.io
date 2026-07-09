@@ -51,17 +51,17 @@ Before Yorkie and Cessna, there were Yaoyao and Mango.  They walked beside me fr
 
 <div class="dog-gallery">
   <!-- Row 1 -->
-  <img src="/images/personal/yaoyaomango1.JPG" alt="Yaoyao and Mango together" class="dog-hero">
+  <img src="/images/personal/yaoyaomango1.JPG" class="dog-hero">
 
   <!-- Row 2 -->
   <div class="dog-row">
-    <img src="/images/personal/mango.JPG" alt="Mango">
-    <img src="/images/personal/yaoyaomango2.JPG" alt="Mango">
-    <img src="/images/personal/yaoyao.JPG" alt="Yaoyao">
+    <img src="/images/personal/mango.JPG">
+    <img src="/images/personal/yaoyaomango2.JPG">
+    <img src="/images/personal/yaoyao.JPG">
   </div>
 
   <!-- Row 3 -->
-  <img src="/images/personal/yaoyaomango3.JPG" alt="A drawing in memory of Yaoyao and Mango" class="dog-drawing">
+  <img src="/images/personal/yaoyaomango3.JPG" class="dog-drawing">
 </div>
 
 <p class="dog-caption">
