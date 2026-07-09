@@ -12,7 +12,7 @@ Enjoy every step of the journey.
 
 ## My Furry Family 🐾
 
-Meet My Real Supervisors
+### Meet My Real Supervisors
 
 Beyond being a Ph.D. student, I am a full-time employee of two feline supervisors: Yorkie and Cessna. My job responsibilities include opening cat food cans, delivering professional-grade brushing and massage services, and responding promptly to all meowing-related emergencies. Employee benefits are distributed at their discretion and typically come in the form of purring, head bumps, and cuddles.
 
@@ -45,7 +45,7 @@ Beyond being a Ph.D. student, I am a full-time employee of two feline supervisor
 
 </figure>
 
-My First Best Friends
+### My First Best Friends
 
 Before Yorkie and Cessna, there were Yaoyao and Mango.  They walked beside me from elementary school through college and into my Ph.D.  Though they are no longer with me, they will always be part of my story.
 
@@ -67,6 +67,50 @@ Before Yorkie and Cessna, there were Yaoyao and Mango.  They walked beside me fr
 <p class="dog-caption">
   Forever in my heart.
 </p>
+
+<style>
+.dog-gallery {
+  max-width: 650px;
+  margin: 16px auto 28px auto;
+}
+
+.dog-gallery img {
+  width: 100%;
+  display: block;
+  border-radius: 8px;
+  object-fit: cover;
+}
+
+.dog-hero {
+  height: 220px;
+  margin-bottom: 12px;
+}
+
+.dog-row {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 12px;
+  margin-bottom: 12px;
+}
+
+.dog-row img {
+  height: 150px;
+}
+
+.dog-drawing {
+  height: 220px;
+  object-fit: contain !important;
+  background: white;
+}
+
+.dog-caption {
+  text-align: center;
+  font-style: italic;
+  font-size: 0.9em;
+  color: #888;
+  margin-top: 8px;
+}
+</style>
 
 ## Dance
 
