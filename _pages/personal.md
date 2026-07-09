@@ -88,7 +88,7 @@ Before Yorkie and Cessna, there were Yaoyao and Mango.  They walked beside me fr
     width:100%;
     height:180px;
     object-fit:cover;
-    object-position:center 35%;   /* 只显示上半部分 */
+    object-position:center 20%;   /* 只显示上半部分 */
     border-radius:10px;
     margin-bottom:14px;
 }
