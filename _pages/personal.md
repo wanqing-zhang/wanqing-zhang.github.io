@@ -100,7 +100,6 @@ Before Yorkie and Cessna, there were Yaoyao and Mango.  They walked beside me fr
 .dog-drawing {
   height: 220px;
   object-fit: contain !important;
-  background: white;
 }
 
 .dog-caption {
