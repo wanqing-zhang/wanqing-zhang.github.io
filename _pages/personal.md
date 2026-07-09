@@ -51,51 +51,85 @@ Before Yorkie and Cessna, there were Yaoyao and Mango.  They walked beside me fr
 
 <div class="dog-gallery">
 
+<div class="dog-gallery">
+
+  <!-- 第一排 -->
+  <img src="/images/personal/yaoyaomango1.JPG"
+       class="dog-banner">
+
+  <!-- 第二排 -->
   <div class="dog-photo-row">
-    <img src="/images/personal/yaoyaomango2.JPG">
-    <img src="/images/personal/yaoyao.JPG">
-    <img src="/images/personal/mango.JPG">
+      <img src="/images/personal/mango.JPG">
+      <img src="/images/personal/yaoyaomango2.JPG">
+      <img src="/images/personal/yaoyao.JPG">
   </div>
 
- <div class="dog-photo-row">
-  <img src="/images/personal/yaoyaomango1.JPG">
-  <img src="/images/personal/yaoyaomango3.JPG">
- </div>
+  <!-- 第三排 -->
+  <img src="/images/personal/yaoyaomango3.JPG"
+       class="dog-drawing">
+
+</div>
+
+<p class="dog-caption">
+  Forever in my heart.
+</p>
 
 </div>
 
 <style>
-.dog-gallery {
-  max-width: 720px;
-  margin: 16px auto 28px auto;
+
+.dog-gallery{
+    max-width:720px;
+    margin:20px auto 28px auto;
 }
 
-.dog-photo-row {
-  display: flex;
-  justify-content: center;
-  gap: 16px;
+/* 第一排横幅 */
+.dog-banner{
+    width:100%;
+    height:180px;
+    object-fit:cover;
+    object-position:center top;   /* 只显示上半部分 */
+    border-radius:10px;
+    margin-bottom:14px;
+}
+
+/* 第二排 */
+.dog-photo-row{
+    display:flex;
+    justify-content:center;
+    gap:14px;
+    margin-bottom:14px;
 }
 
 .dog-photo-row img{
-    width:31%;
+    width:32%;
+    aspect-ratio:1/1;
+    object-fit:cover;
     border-radius:8px;
 }
 
-.dog-drawing {
-  display: block;
-  width: 55%;
-  max-width: 360px;
-  margin: 16px auto 0 auto;
-  border-radius: 8px;
+/* 抱抱这张往上移动一点，避免裁头 */
+.dog-photo-row img:nth-child(2){
+    object-position:center top;
 }
 
-.dog-caption {
-  text-align: center;
-  font-style: italic;
-  font-size: 0.85em;
-  color: #888;
-  margin-top: 8px;
+/* 第三排 */
+.dog-drawing{
+    display:block;
+    width:50%;
+    max-width:340px;
+    margin:0 auto;
+    border-radius:8px;
 }
+
+.dog-caption{
+    text-align:center;
+    margin-top:8px;
+    font-style:italic;
+    font-size:0.85em;
+    color:#888;
+}
+
 </style>
 
 ## Dance
