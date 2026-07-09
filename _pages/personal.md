@@ -15,7 +15,6 @@ Enjoy every step of the journey.
 ### Meet My Real Supervisors
 
 Beyond being a Ph.D. student, I am a full-time employee of two feline supervisors: Yorkie and Cessna. My job responsibilities include opening cat food cans, delivering professional-grade brushing and massage services, and responding promptly to all meowing-related emergencies. Employee benefits are distributed at their discretion and typically come in the form of purring, head bumps, and cuddles.
-
 <figure style="text-align:center; margin:15px 0;">
 
 <div class="cat-gallery">
