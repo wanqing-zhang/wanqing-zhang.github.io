@@ -8,9 +8,11 @@ href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"/>
 
 <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
 
-Work-life balance
+Enjoy every step of the journey.
 
-## Meet My Real Supervisors
+## My Furry Family 🐾
+
+Meet My Real Supervisors
 
 Beyond being a Ph.D. student, I am a full-time employee of two feline supervisors: Yorkie and Cessna. My job responsibilities include opening cat food cans, delivering professional-grade brushing and massage services, and responding promptly to all meowing-related emergencies. Employee benefits are distributed at their discretion and typically come in the form of purring, head bumps, and cuddles.
 
@@ -42,6 +44,10 @@ Beyond being a Ph.D. student, I am a full-time employee of two feline supervisor
   </figcaption>
 
 </figure>
+
+Always remembered
+Before Yorkie and Cessna, I grew up with two beloved dogs, Yaoyao and Mango.  They walked beside me from elementary school through college and into my Ph.D.  Though they are no longer with me, they will always be part of my story.
+
 
 ## Dance
 
