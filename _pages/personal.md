@@ -56,6 +56,7 @@ Before Yorkie and Cessna, there were Yaoyao and Mango.  They walked beside me fr
   <!-- Row 2: two photos -->
   <div class="dog-row">
     <img src="/images/personal/mango.JPG" alt="Mango">
+    <img src="/images/personal/yaoyaomango2.JPG" alt="Mango">
     <img src="/images/personal/yaoyao.JPG" alt="Yaoyao">
   </div>
 
