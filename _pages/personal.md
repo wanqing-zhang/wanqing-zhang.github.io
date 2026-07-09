@@ -60,6 +60,12 @@ Before Yorkie and Cessna, there were Yaoyao and Mango.  They walked beside me fr
 
    <img src="/images/personal/yaoyaomango1.JPG"
          style="height:240px; width:auto;">
+   <img src="/images/personal/yaoyaomango2.JPG"
+         style="height:240px; width:auto;">
+   <img src="/images/personal/yaoyao.JPG"
+         style="height:240px; width:auto;">
+   <img src="/images/personal/mango.JPG"
+         style="height:240px; width:auto;">
    <img src="/images/personal/yaoyaomango3.JPG"
          style="height:240px; width:auto;">
 
