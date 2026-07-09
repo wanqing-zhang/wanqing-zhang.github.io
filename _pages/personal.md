@@ -1,6 +1,6 @@
 ---
 permalink: /personal/
-title: "Beyond Research"
+title: ""
 author_profile: true
 ---
 <link rel="stylesheet"
