@@ -50,18 +50,17 @@ Beyond being a Ph.D. student, I am a full-time employee of two feline supervisor
 Before Yorkie and Cessna, there were Yaoyao and Mango.  They walked beside me from elementary school through college and into my Ph.D.  Though they are no longer with me, they will always be part of my story.
 
 <div class="dog-gallery">
-  <!-- Row 1 -->
-  <img src="/images/personal/yaoyaomango1.JPG" class="dog-hero">
 
-  <!-- Row 2 -->
-  <div class="dog-row">
-    <img src="/images/personal/mango.JPG">
-    <img src="/images/personal/yaoyaomango2.JPG">
-    <img src="/images/personal/yaoyao.JPG">
+  <div class="dog-photo-row">
+    <img src="/images/personal/yaoyaomango1.JPG" alt="Yaoyao and Mango together">
+    <img src="/images/personal/yaoyaomango2.JPG" alt="Yaoyao and Mango">
+    <img src="/images/personal/yaoyao.JPG" alt="Yaoyao">
   </div>
 
-  <!-- Row 3 -->
-  <img src="/images/personal/yaoyaomango3.JPG" class="dog-drawing">
+  <img src="/images/personal/yaoyaomango3.JPG"
+       alt="A drawing in memory of Yaoyao and Mango"
+       class="dog-drawing">
+
 </div>
 
 <p class="dog-caption">
@@ -70,42 +69,35 @@ Before Yorkie and Cessna, there were Yaoyao and Mango.  They walked beside me fr
 
 <style>
 .dog-gallery {
-  max-width: 650px;
+  max-width: 720px;
   margin: 16px auto 28px auto;
 }
 
-.dog-gallery img {
-  width: 100%;
-  display: block;
-  border-radius: 8px;
+.dog-photo-row {
+  display: flex;
+  justify-content: center;
+  gap: 16px;
+}
+
+.dog-photo-row img {
+  width: 31%;
+  height: 170px;
   object-fit: cover;
-}
-
-.dog-hero {
-  height: 220px;
-  margin-bottom: 12px;
-}
-
-.dog-row {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 12px;
-  margin-bottom: 12px;
-}
-
-.dog-row img {
-  height: 150px;
+  border-radius: 8px;
 }
 
 .dog-drawing {
-  height: 220px;
-  object-fit: contain !important;
+  display: block;
+  width: 55%;
+  max-width: 360px;
+  margin: 16px auto 0 auto;
+  border-radius: 8px;
 }
 
 .dog-caption {
   text-align: center;
   font-style: italic;
-  font-size: 0.9em;
+  font-size: 0.85em;
   color: #888;
   margin-top: 8px;
 }
