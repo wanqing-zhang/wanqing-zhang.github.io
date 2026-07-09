@@ -45,9 +45,29 @@ Beyond being a Ph.D. student, I am a full-time employee of two feline supervisor
 
 </figure>
 
-Always remembered
-Before Yorkie and Cessna, I grew up with two beloved dogs, Yaoyao and Mango.  They walked beside me from elementary school through college and into my Ph.D.  Though they are no longer with me, they will always be part of my story.
+My First Best Friends
 
+Before Yorkie and Cessna, there were Yaoyao and Mango.  They walked beside me from elementary school through college and into my Ph.D.  Though they are no longer with me, they will always be part of my story.
+
+<figure style="text-align:center; margin:15px 0;">
+
+  <div style="
+      display:flex;
+      justify-content:center;
+      align-items:center;
+      gap:20px;
+  ">
+
+   <img src="/images/personal/yaoyaomango1.JPG"
+         style="height:240px; width:auto;">
+   <img src="/images/personal/Yaoyaomango2.jpg"
+         style="height:240px; width:auto;">
+   <img src="/images/personal/Yaoyaomango3.png"
+         style="height:240px; width:auto;">
+
+  </div>
+
+</figure>
 
 ## Dance
 
