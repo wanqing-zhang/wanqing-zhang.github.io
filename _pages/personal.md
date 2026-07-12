@@ -286,17 +286,13 @@ new Swiper(".danceSwiper", {
 </script>
 
 ### Dance Highlights
-🩰 20+ years of Chinese classical dance training
-
-🏆 First Prize, 8th Sichuan Province College Students' Art Festival (2017)
-
-🎓 Outstanding Art Talent Scholarship (UESTC, 2018 & 2019)
-
-🌍 Cultural exchange performer in Tanzania & Ethiopia (2019)
-
-💃 Performer at Penn State THON 2024
-
-🎭 Performer at State College Multicultural Children's Festival (2024, 2025)
+<li>🩰 20+ years of Chinese classical dance training</li>
+<li>⭐ Selected for the UESTC Elite Art Troupe (2017)</li>
+<li>🏆 First Prize, 8th Sichuan Province College Students' Art Festival (2017)</li>
+<li>🎓 Outstanding Art Talent Scholarship (UESTC, 2018 & 2019)</li>
+<li>🌍 Represented UESTC in cultural exchange performances in Tanzania & Ethiopia (2019)</li>
+<li>💃 Performer at Penn State THON 2024</li>
+<li>🎭 Performer at State College Multicultural Children's Festival (2024 & 2025)</li>
 
 
 ## Let's Connect
