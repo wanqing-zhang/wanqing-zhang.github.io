@@ -286,6 +286,11 @@ new Swiper(".danceSwiper", {
 </script>
 
 ### Dance Highlights
+<ul style="
+    list-style: none;
+    padding-left: 0;
+    margin: 0;
+">
 <li>🩰 20+ years of Chinese classical dance training</li>
 <li>⭐ Selected for the UESTC Elite Art Troupe (2017)</li>
 <li>🏆 First Prize, 8th Sichuan Province College Students' Art Festival (2017)</li>
@@ -293,7 +298,7 @@ new Swiper(".danceSwiper", {
 <li>🌍 Represented UESTC in cultural exchange performances in Tanzania & Ethiopia (2019)</li>
 <li>💃 Performer at Penn State THON 2024</li>
 <li>🎭 Performer at State College Multicultural Children's Festival (2024 & 2025)</li>
-
+</ul>
 
 ## Let's Connect
 
