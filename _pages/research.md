@@ -7,7 +7,9 @@ author_profile: true
 
 ## Paintable Tattoo
 
-Conventioanl gel electrodes often suffer from poor contact with skin, resulting in signal degradation during body motion. We developed a paintable conducive ink that forms a conformal on-skin electrode while penetrating a porous silver textile to create a mechanically robust connector to rigid electronics. By simultaneously engineering both the skin-electrode and electrode-device interfaces, this electronic tattoo enables reliable monitoring of cardiac, muscle, and brain activity during daily life.  Beyond its sensing performance, the paintable electronic tattoo supports customizable appearance, transforming conventional medical electrodes into personalized wearable devices that improve comfort, aesthetics, and long-term user acceptance.
+Most existing epidermal electrodes suffer from either poor skin-electrode contact during skin deformation, or unstable connections between soft electrodes and rigid electronics due to the inherent mechanical mismatch. 
+
+We developed a paintable conducive ink that forms a conformal on-skin electrode while penetrating a porous silver textile to create a mechanically robust connector to rigid electronics. By simultaneously engineering both the skin-electrode and electrode-device interfaces, this electronic tattoo enables reliable monitoring of cardiac, muscle, and brain activity during daily life.  Beyond its sensing performance, the paintable electronic tattoo supports customizable appearance, transforming conventional medical electrodes into personalized wearable devices that improve comfort, aesthetics, and long-term user acceptance.
 
 <figure style="text-align:center; margin:15px 0;">
 
@@ -43,7 +45,9 @@ W. Zhang, et al. “Paintable on-skin dry electrodes with robust skin and device
 
 ## Hydrogel Sensors
 
-Sweat chloride is an important biomarker for assessing hydration status and diagnosing cystic fibrosis, yet existing wearable sensors often suffer from either limited sensitivity or irreversible sensing mechanisms.  To address these limitations, we developed a hydrogel-based wearable sweat chloride sensor that detects chloride concentration by measuring the open-circuit voltage generated from an electrolyte concentration gradient, eliminating the need for ion-selective membranes.  This wearable sensing strategy provides a reliable system for continuous sweat analysis and can be extended to monitor additional biomarkers for personalized healthcare and point-of-care diagnostics.
+Sweat chloride is an important biomarker for assessing hydration status and diagnosing cystic fibrosis, yet existing wearable sensors often suffer from either limited sensitivity or irreversible sensing mechanisms.  
+
+To address these limitations, we developed a hydrogel-based wearable sweat chloride sensor that detects chloride concentration by measuring the open-circuit voltage generated from an electrolyte concentration gradient, eliminating the need for ion-selective membranes.  This wearable sensing strategy provides a reliable system for continuous sweat analysis and can be extended to monitor additional biomarkers for personalized healthcare and point-of-care diagnostics.
 
 <figure style="text-align:center; margin:15px 0;">
 
