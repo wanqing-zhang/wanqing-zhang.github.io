@@ -290,6 +290,7 @@ new Swiper(".danceSwiper", {
     list-style: none;
     padding-left: 0;
     margin: 0;
+    font-size:0.92em;
 ">
 <li>🩰 20+ years of Chinese classical dance training</li>
 <li>⭐ Selected for the UESTC Elite Art Troupe (2017)</li>
