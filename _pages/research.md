@@ -80,7 +80,3 @@ Sweat chloride is an important biomarker for assessing hydration status and diag
 W. Zhang, et al. "Hydrogel-based sweat chloride sensor with high sensitivity and low hysteresis", *Biosensors and Bioelectronics*, 288, 117805 (2025).
 </small>
 
-
-<p style="font-size: 0.8em; color: #666;">
-<sup>#</sup> Indicates equal contribution.
-</p>
