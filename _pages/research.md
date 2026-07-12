@@ -4,13 +4,10 @@ title: "Research Highlights"
 author_profile: true
 ---
 
-My research focuses on wearable electronics, with an emphasis on soft bioelectronic interfaces, conductive hydrogels, epidermal sensors for physiological monitoring and human-machine interaction.
-
-
 
 ## Paintable Tattoo
 
-Currently, electrophysiological signals such as ECG are commonly measured using commercial gel electrodes attached to the skin.  However, the air gaps between these electrodes and the skin’s microtextured surface degrade signal quality, particularly during body motion.  To address this challenge, we developed a conducive ink that can be directly painted onto the skin, where it infiltrates the skin microtexture and dries into a conformal electrode.  The ink also penetrates a porous silver textile to form an interlocked junction connector, providing mechanically robust interface between the soft electrode and rigid electronic hardware to overcome connection failures caused by mechanical mismatch.  By simultaneously engineering both the skin-electrode and electrode-device interfaces, this paintable electronic tattoo enables reliable monitoring of cardiac, muscle, and brain activity during daily life.  Its customizable shapes and colors further improve comfort, aesthetics, and long-term acceptance for wearable healthcare applications. 
+Conventioanl gel electrodes often suffer from poor contact with skin, resulting in signal degradation during body motion. We developed a paintable conducive ink that forms a conformal on-skin electrode while penetrating a porous silver textile to create a mechanically robust connector to rigid electronics. By simultaneously engineering both the skin-electrode and electrode-device interfaces, this electronic tattoo enables reliable monitoring of cardiac, muscle, and brain activity during daily life.  Beyond its sensing performance, the paintable electronic tattoo supports customizable appearance, transforming conventional medical electrodes into personalized wearable devices that improve comfort, aesthetics, and long-term user acceptance.
 
 <figure style="text-align:center; margin:15px 0;">
 
