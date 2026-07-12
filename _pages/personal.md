@@ -141,7 +141,9 @@ Before Yorkie and Cessna, there were Yaoyao and Mango.  They walked beside me fr
 
 ## Dance
 
-Long before I started conducting research, I began training in Chinese classical dance-a passion that has remained with me for more than 20 years. I enjoy performing on stage, where I exchange lab coats for costumes and scientific presentations for dance performances. Work hard, dance harder 💃.
+Long before I started conducting research, I began training in Chinese classical dance-a passion that has remained with me for more than 20 years. I enjoy performing on stage, where I exchange lab coats for costumes and scientific presentations for dance performances. 
+
+Work hard, dance harder 💃.
 
 <div class="swiper danceSwiper">
 
@@ -283,6 +285,28 @@ new Swiper(".danceSwiper", {
 
 </script>
 
+<h3 style="
+  margin-top: 30px;
+  margin-bottom: 12px;
+  padding-bottom: 8px;
+  border-bottom: 1px solid #008b8b;
+">
+  Dance Highlights
+</h3>
+
+<ul style="
+  list-style: none;
+  padding-left: 0;
+  margin: 0;
+  line-height: 1.9;
+">
+  <li>🩰 <strong>20+ years</strong> of Chinese classical dance training</li>
+  <li>🏆 <strong>First Prize</strong>, 8th Sichuan Province College Students' Art Festival</li>
+  <li>🎓 <strong>Outstanding Art Talent Scholarship</strong>, UESTC (2018 &amp; 2019)</li>
+  <li>🌍 Cultural exchange performer in <strong>Tanzania and Ethiopia</strong> (2019)</li>
+  <li>💃 Performer at <strong>Penn State THON 2024</strong></li>
+  <li>🎭 Performer at the <strong>State College Multicultural Children's Festival</strong> (2024 &amp; 2025)</li>
+</ul>
 
 ## Let's Connect
 
