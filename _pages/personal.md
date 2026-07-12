@@ -285,28 +285,19 @@ new Swiper(".danceSwiper", {
 
 </script>
 
-<h3 style="
-  margin-top: 30px;
-  margin-bottom: 12px;
-  padding-bottom: 8px;
-  border-bottom: 1px solid #008b8b;
-">
-  Dance Highlights
-</h3>
+### Dance Highlights
+🩰 20+ years of Chinese classical dance training
 
-<ul style="
-  list-style: none;
-  padding-left: 0;
-  margin: 0;
-  line-height: 1.9;
-">
-  <li>🩰 <strong>20+ years</strong> of Chinese classical dance training</li>
-  <li>🏆 <strong>First Prize</strong>, 8th Sichuan Province College Students' Art Festival</li>
-  <li>🎓 <strong>Outstanding Art Talent Scholarship</strong>, UESTC (2018 &amp; 2019)</li>
-  <li>🌍 Cultural exchange performer in <strong>Tanzania and Ethiopia</strong> (2019)</li>
-  <li>💃 Performer at <strong>Penn State THON 2024</strong></li>
-  <li>🎭 Performer at the <strong>State College Multicultural Children's Festival</strong> (2024 &amp; 2025)</li>
-</ul>
+🏆 First Prize, 8th Sichuan Province College Students' Art Festival (2017)
+
+🎓 Outstanding Art Talent Scholarship (UESTC, 2018 & 2019)
+
+🌍 Cultural exchange performer in Tanzania & Ethiopia (2019)
+
+💃 Performer at Penn State THON 2024
+
+🎭 Performer at State College Multicultural Children's Festival (2024, 2025)
+
 
 ## Let's Connect
 
