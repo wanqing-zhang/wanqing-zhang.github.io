@@ -141,7 +141,7 @@ Before Yorkie and Cessna, there were Yaoyao and Mango.  They walked beside me fr
 
 ## Dance
 
-Long before I started conducting research, I began training in Chinese classical dance-a passion that has remained with me for more than 20 years. I enjoy performing on stage, where I exchange lab coats for costumes and scientific presentations for dance performances. As it turns out, both research and dance require careful preparation, endless practice, and a certain amount of optimism that nothing unexpected happens when the spotlight turns on.
+Long before I started conducting research, I began training in Chinese classical dance-a passion that has remained with me for more than 20 years. I enjoy performing on stage, where I exchange lab coats for costumes and scientific presentations for dance performances. Work hard, dance harder 💃.
 
 <div class="swiper danceSwiper">
 
@@ -288,4 +288,4 @@ new Swiper(".danceSwiper", {
 
 One of the best parts of academia is meeting curious people from all over the world. I enjoy exchanging ideas, and learning from different perspectives. 
 
-If you happen to visit this page, feel free to say hello. Whether your interests are in wearables, dance, cats, I'd love to connect. ☕️
+If you happen to visit this page, feel free to say hello. Whether your interests are in bioelectronics, dance, or four-leggeed supervisors, I'd love to connect. ☕️
