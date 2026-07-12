@@ -34,11 +34,8 @@ Beyond being a Ph.D. student, I am a full-time employee of two feline supervisor
     Thanks to my exceptional job performance, I have earned the privilege of
     living in their residence.
   </p>
-
 </div>
-
 </figure>
-
 ### My First Best Friends
 
 Before Yorkie and Cessna, there were Yaoyao and Mango.  They walked beside me from elementary school through college and into my Ph.D.  Though they are no longer with me, they will always be part of my story.
