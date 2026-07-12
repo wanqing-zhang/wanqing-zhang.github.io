@@ -141,7 +141,7 @@ Before Yorkie and Cessna, there were Yaoyao and Mango.  They walked beside me fr
 
 ## Dance
 
-Long before I started conducting research, I began training in Chinese classical dance-a passion that has remained with me for more than 20 years. I enjoy performing on stage, where I exchange lab coats for costumes and scientific presentations for dance performances. 
+Long before I started conducting research, I began training in Chinese classical dance. I enjoy performing on stage, where I exchange lab coats for costumes and scientific presentations for dance performances. 
 
 Work hard, dance harder 💃.
 
