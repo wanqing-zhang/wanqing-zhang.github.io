@@ -1,6 +1,6 @@
 ---
 permalink: /research/
-title: "Research"
+title: "Research Highlights"
 author_profile: true
 ---
 
@@ -8,9 +8,9 @@ My research focuses on wearable electronics, with an emphasis on soft bioelectro
 
 
 
-## Paintable Epidermal Electrodes
+## Paintable Tattoo
 
-I developed a paintable electronic tattoo that can be drawn directly onto the skin and functions as a wearable sensor after drying. Integrated with a interlocked-junction connector, the ultra-thin device maintains reliable monitoring of heart, muscle, and brain activity during daily activities, while its customizable shapes and colors improve comfort and user acceptance. This technology has the potential to advance long-term health monitoring, human–machine interaction, and next-generation wearable healthcare.
+Currently, electrophysiological signals such as ECG are commonly measured using commercial gel electrodes attached to the skin.  However, the air gaps between these electrodes and the skin’s microtextured surface degrade signal quality, particularly during body motion.  To address this challenge, we developed a conducive ink that can be directly painted onto the skin, where it infiltrates the skin microtexture and dries into a conformal electrode.  The ink also penetrates a porous silver textile to form an interlocked junction connector, providing mechanically robust interface between the soft electrode and rigid electronic hardware to overcome connection failures caused by mechanical mismatch.  By simultaneously engineering both the skin-electrode and electrode-device interfaces, this paintable electronic tattoo enables reliable monitoring of cardiac, muscle, and brain activity during daily life.  Its customizable shapes and colors further improve comfort, aesthetics, and long-term acceptance for wearable healthcare applications. 
 
 <figure style="text-align:center; margin:15px 0;">
 
@@ -46,7 +46,8 @@ W. Zhang, X. Xin, Y. Wang, et al. “Paintable on-skin dry electrodes with robus
 </small>
 
 ## Conductive Hydrogels and Hydrogel Sensors
-I developed a battery-free hydrogel-based sweat chloride sensor for non-invasive biochemical monitoring and am interested in engineering conductive hydrogels with improved conductivity, mechanical robustness, adhesion, environmental stability, and long-term interface reliability.
+
+Sweat chloride is an important biomarker for assessing hydration status and diagnosing cystic fibrosis, yet existing wearable sensors often suffer from either limited sensitivity or irreversible sensing mechanisms.  To address these limitations, we developed a hydrogel-based wearable sweat chloride sensor that detects chloride concentration by measuring the open-circuit voltage generated from an electrolyte concentration gradient, eliminating the need for ion-selective membranes.  This wearable sensing strategy provides a reliable system for continuous sweat analysis and can be extended to monitor additional biomarkers for personalized healthcare and point-of-care diagnostics.
 
 <figure style="text-align:center; margin:15px 0;">
 
