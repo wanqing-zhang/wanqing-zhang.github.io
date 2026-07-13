@@ -87,19 +87,19 @@ PEDOT:PSS is one of the most widely used conductive polymers for bioelectronics.
 
 My current research focuses on developing additive-free PEDOT:PSS electrodes with high conductivity, and good wet stability with strong interfacial adhesion for implantable bioelectronic applications.
 
-<figure style="text-align:center; margin:15px 0;">
+<figure style="
+    display:inline-block;
+    text-align:center;
+    margin:15px 0;
+">
 
-  <div style="
-      display:flex;
-      justify-content:center;
-      align-items:center;
-      gap:20px;
-  ">
-
-   <img src="/images/research/PP.png"
-         style="height:240px; width:auto;">
-
-  </div>
+  <img src="/images/research/PP.png"
+       style="
+         height:240px;
+         width:auto;
+         display:block;
+         margin:0 auto;
+       ">
 
   <figcaption style="
       font-size:0.8em;
@@ -107,7 +107,7 @@ My current research focuses on developing additive-free PEDOT:PSS electrodes wit
       margin-top:6px;
       line-height:1.2;
   ">
-      Additive-free PEDOT:PSS for implantable bioelectronic interfaces.
+    Additive-free PEDOT:PSS for implantable bioelectronic interfaces.
   </figcaption>
 
 </figure>
