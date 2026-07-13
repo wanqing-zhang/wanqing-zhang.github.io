@@ -83,7 +83,7 @@ W. Zhang, et al. "Hydrogel-based sweat chloride sensor with high sensitivity and
 
 ## Additive-free PEDOT:PSS Bioelectronic Interfaces (Ongoing)
 
-PEDOT:PSS is one of the most widely used conductive polymers for bioelectronics. However, conventional PEDOT:PSS electrodes often require additives to achieve high conductivity.  Besides, they can easily delaminate from their substrates due to interfacial water penetration.
+PEDOT:PSS is one of the most widely used conductive polymers for bioelectronics. However, conventional PEDOT:PSS electrodes often require additives to achieve high conductivity.  Moreover, they can easily delaminate from their substrates due to interfacial water penetration.
 
 My current research focuses on developing additive-free PEDOT:PSS electrodes with high conductivity, long-term wet stability and strong interfacial adhesion for implantable bioelectronic applications.
 
