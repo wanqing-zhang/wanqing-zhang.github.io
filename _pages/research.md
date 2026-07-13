@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 
-## Paintable Tattoo
+## Paintable Electronic Tattoos
 
 Most existing epidermal electrodes suffer from either poor skin-electrode contact during skin deformation, or unstable connections between soft electrodes and rigid electronics due to the inherent mechanical mismatch. 
 
@@ -43,7 +43,7 @@ We developed a paintable conducive ink that forms a conformal on-skin electrode 
 W. Zhang, et al. “Paintable on-skin dry electrodes with robust skin and device connection for wireless sensing and human-machine interfaces”, *Proceedings of the National Academy of Sciences*, In Press, 2026.
 </small>
 
-## Hydrogel Sensors
+## Hydrogel Sweat Sensors
 
 Sweat chloride is an important biomarker for assessing hydration status and diagnosing cystic fibrosis, yet existing wearable sensors often suffer from either limited sensitivity or irreversible sensing mechanisms.  
 
@@ -81,9 +81,11 @@ To address these limitations, we developed a hydrogel-based wearable sweat chlor
 W. Zhang, et al. "Hydrogel-based sweat chloride sensor with high sensitivity and low hysteresis", *Biosensors and Bioelectronics*, 288, 117805 (2025).
 </small>
 
-## PEDOT:PSS Bioelectronic Interfaces (Ongoing)
+## Pure PEDOT:PSS Bioelectronic Interfaces (Ongoing)
 
-PEDOT:PSS is one of the most widely used conductive polymers for bioelectronics, but conventional PEDOT:PSS electrodes often require additives to achieve high conductivity and long-term wet stability.  My current research focuses on developing additive-free PEDOT:PSS electrodes with high conductivity, good wet stability and strong interfacial adhesion for implantable bioelectronic applications.
+PEDOT:PSS is one of the most widely used conductive polymers for bioelectronics. However, conventional PEDOT:PSS electrodes often require additives to achieve high conductivity.  Besides, they can easily delaminate from their substrates due to interfacial water penetration.
+
+My current research focuses on developing additive-free PEDOT:PSS electrodes with high conductivity, and good wet stability with strong interfacial adhesion for implantable bioelectronic applications.
 
 <figure style="text-align:center; margin:15px 0;">
 
