@@ -98,7 +98,9 @@ My current research focuses on developing additive-free PEDOT:PSS electrodes wit
 
    <img src="/images/research/PP.png"
          style="height:240px; width:auto;">
+
   </div>
+
   <figcaption style="
       font-size:0.8em;
       color:#666;
@@ -107,4 +109,5 @@ My current research focuses on developing additive-free PEDOT:PSS electrodes wit
   ">
       Additive-free PEDOT:PSS for implantable bioelectronic interfaces.
   </figcaption>
+
 </figure>
