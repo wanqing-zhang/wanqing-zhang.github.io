@@ -1,6 +1,6 @@
 ---
 permalink: /research/
-title: "Research Highlights"
+title: "Selected Projects"
 author_profile: true
 ---
 
@@ -96,7 +96,13 @@ PEDOT:PSS is one of the most widely used conductive polymers for bioelectronics,
 
    <img src="/images/research/PP.png"
          style="height:240px; width:auto;">
-
-
   </div>
+  <figcaption style="
+      font-size:0.8em;
+      color:#666;
+      margin-top:6px;
+      line-height:1.2;
+  ">
+      Additive-free PEDOT:PSS for implantable bioelectronic interfaces.
+  </figcaption>
 </figure>
