@@ -40,7 +40,7 @@ We developed a paintable conducive ink that forms a conformal on-skin electrode 
 </figure>
      
 <small> 
-W. Zhang, et al. “Paintable on-skin dry electrodes with robust skin and device connection for wireless sensing and human-machine interfaces”, *Proceedings of the National Academy of Sciences*, In Press, 2026.
+W. Zhang, et al. “[Paintable on-skin dry electrodes with robust skin and device connection for wireless sensing and human-machine interfaces](https://www.pnas.org/doi/10.1073/pnas.2615835123)”, *Proceedings of the National Academy of Sciences*, 123 (29) e2615835123 (2026).
 </small>
 
 ## Hydrogel Sweat Sensors
@@ -78,7 +78,7 @@ To address these limitations, we developed a hydrogel-based wearable sweat chlor
 </figure>
 
 <small>
-W. Zhang, et al. "Hydrogel-based sweat chloride sensor with high sensitivity and low hysteresis", *Biosensors and Bioelectronics*, 288, 117805 (2025).
+W. Zhang, et al. "[Hydrogel-based sweat chloride sensor with high sensitivity and low hysteresis](https://www.sciencedirect.com/science/article/abs/pii/S0956566325006815)", *Biosensors and Bioelectronics*, 288, 117805 (2025).
 </small>
 
 ## Additive-free PEDOT:PSS Bioelectronic Interfaces (Ongoing)
